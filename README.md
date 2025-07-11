@@ -16,11 +16,11 @@ python 01_linear_regression/00_linear_regression_gradient_descent.py
 ## Progress
 
 - [x] Linear Regression with Manual Gradient Descent
-- [ ] Linear Regression with PyTorch Autograd
+- [x] Linear Regression with PyTorch Autograd
 - [ ] Logistic Regression
-- [ ] Multi-Layer Perceptron
-- [ ] Custom Optimizers
-- [ ] Regularization Techniques
+- [x] Single-Layer Perceptron
+- [x] Multi-Layer Perceptron
+- [x] ConvNets
 
 ## Learning Approach
 
